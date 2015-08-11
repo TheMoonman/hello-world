@@ -1,4 +1,4 @@
 # hello-world
 just hello-world
 
-think python, think c# and so on...
+I like object-oriented programming, also functional programming, also just programming or even developing.
